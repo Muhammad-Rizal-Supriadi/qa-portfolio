@@ -54,8 +54,8 @@ Detailed documentation and test reports to track QA processes and findings.
 
 ## 📬 Contact Me  
 - Email: [muhammadrizalsupriadi@gmail.com](mailto:muhammadrizalsupriadi@gmail.com)  
-- LinkedIn: [linkedin.com/in/muhammadrizalsupriadi](https://linkedin.com/in/muhammadrizalsupriadi)  
-- GitHub: [github.com/muhammadrizalsupriadi](https://github.com/muhammadrizalsupriadi)  
+- LinkedIn: [linkedin.com/in/muhammad-rizal-supriadi](https://linkedin.com/in/muhammad-rizal-supriadi)  
+- GitHub: [github.com/Muhammad-Rizal-Supriadi](https://github.com/Muhammad-Rizal-Supriadi)  
 
 ---
 
