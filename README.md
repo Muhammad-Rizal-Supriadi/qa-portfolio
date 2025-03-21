@@ -3,16 +3,6 @@
 Welcome to my **QA Portfolio** repository! 🚀  
 This repository showcases my expertise in **Quality Assurance**, including **manual testing, automation testing, performance testing, security testing, and detailed test reports**.  
 
-## 📌 Table of Contents  
-- [Test Cases](#test-cases)
-- [Automation Testing](#automation-testing)
-- [Performance Testing](#performance-testing)
-- [Security Testing](#security-testing)
-- [Reports and Documentation](#reports-and-documentation)
-- [Contact Me](#contact-me)
-
----
-
 ## 📝 Test Cases  
 This section contains both **manual and automated test cases**, ensuring thorough test coverage.  
 
