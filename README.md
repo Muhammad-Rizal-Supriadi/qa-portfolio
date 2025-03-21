@@ -8,7 +8,8 @@ This repository showcases my expertise in **Quality Assurance**, including **man
 - [Automation Testing](#automation-testing)
 - [Performance Testing](#performance-testing)
 - [Security Testing](#security-testing)
-- [Reports & Documentation](#reports--documentation)
+- [Reports and Documentation](#reports-and-documentation)
+- [Contact Me](#contact-me)
 
 ---
 
@@ -43,7 +44,7 @@ Security assessments performed using **Burp Suite** to identify vulnerabilities 
 
 ---
 
-## 📊 Reports & Documentation  
+## 📊 Reports and Documentation  
 Detailed documentation and test reports to track QA processes and findings.  
 
 - **Test Summary Report** ([View File](reports/test-summary-report.pdf))
