@@ -14,9 +14,12 @@ This section contains both **manual and automated test cases**, ensuring thoroug
 ## 🤖 Automation Testing  
 This section contains various **automation scripts** for testing web, API, and mobile applications.  
 
-- **Cypress E2E Testing** ([View Folder](automation/cypress-project/))
-- **Postman API Testing** ([View File](automation/postman-collection.json))
-- **Selenium Java UI Testing** (Coming Soon)
+- **Cypress E2E Testing:**  
+  - [E-Commerce Testing](https://github.com/username/cypress-ecommerce)  
+  - [Admin Dashboard Testing](https://github.com/username/cypress-admin-dashboard)  
+  - [API Testing with Cypress](https://github.com/username/cypress-api-testing)  
+- **Postman API Testing** ([View File](automation/postman-collection.json))  
+- **Selenium Java UI Testing** (Coming Soon)  
 
 ---
 
